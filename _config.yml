@@ -1,2 +1,3 @@
 name:  LeffelWeb -  Mike Leffel's static web site
 markdown:  kramdown
+permalink: /blog/:year/:month/:day/:title
