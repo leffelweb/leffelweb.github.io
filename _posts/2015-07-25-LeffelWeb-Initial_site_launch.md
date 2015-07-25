@@ -4,4 +4,4 @@ title: "Mike Launches Site"
 date: 2015-07-25
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Going through an intial github web site tutorial. Powered by [Jekyll](http://jekyllrb.com).  I need to learn Markdown to create these posts.
