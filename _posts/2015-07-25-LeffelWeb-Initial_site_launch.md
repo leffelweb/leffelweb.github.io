@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeffelWeb.  Mike Launches Site"
+title: "Mike Launches Site"
 date: 2015-07-25
 ---
 
