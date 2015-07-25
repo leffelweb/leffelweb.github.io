@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First update, create a new ost"
+title: "First update, create a new post"
 date: 2015-07-25
 ---
 
